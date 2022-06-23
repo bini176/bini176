@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bini176
-- 👀 I’m interested in Backend Develompent in Java
+- 👀 I’m interested in Backend Development in Java
 - 🌱 I’m currently learning Java/Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
